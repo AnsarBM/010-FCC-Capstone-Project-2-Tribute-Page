@@ -1,0 +1,80 @@
+html {
+    background-color: #9EB384;
+    font-size:20px;
+    font-family:  Helvetica, sans-serif;
+}
+
+body {
+    background-color: #CEDEBD;
+    margin: 30px 10px 50px 10px;
+    padding: 20px;
+    border-radius:10px;
+}
+
+#header {
+   text-align: center;
+   padding:20px;
+}
+
+#img-div {
+    background-color: #FAF1E4;
+    border-radius:10px;
+    padding: 10px 10px 30px 10px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+#img-caption {
+    font-size:0.75rem;
+    padding-top:20px;
+}
+
+#image {
+    display:block;
+    max-width:100%;
+    height: auto;
+    border-radius:10px;
+}
+
+#tribute-info{
+    text-align: center;
+    padding:10px 0px 0px 0px;
+    font-size: 0.75rem;
+}
+
+.list-by-year{
+    margin-left:25%;
+    width: 50%;
+    list-style-type: none;
+
+}
+
+.list-by-year > li{
+    padding:10px 0px;
+}
+
+.year {
+    font-weight:bold;
+}
+
+#remarks-div {
+    font-size: 0.75rem;
+    padding: 20px;
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    padding-top:20px;
+    padding-bottom: 0px;
+    font-size: 0.75rem;
+}
+
+.link {
+    color: purple;
+}
+
+.text-info {
+    font-size: 0.75rem;
+}
